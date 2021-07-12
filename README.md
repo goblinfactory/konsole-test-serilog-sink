@@ -1,4 +1,11 @@
-# konsole-test-serilog-sink
+# Serilog Sink for Goblinfactory.Konsole
+
+```csharp
+    // use this extension method to register
+    // a Konsole serilogger
+    // see full sample at bottom of page±
+    .WriteTo.KonsoleWindow(logs, errors)
+```
 
 test creating a simple serilog sink for konsole that uses v7 alpha theming
 
