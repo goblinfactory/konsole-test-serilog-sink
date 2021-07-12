@@ -50,6 +50,6 @@ main.WriteLine("shutting down.");
 }
 ```
 
-produces
+Results in ... (screenshot when running on Mac OSX)
 
 ![sample.png](sample.png)
