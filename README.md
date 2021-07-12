@@ -52,34 +52,4 @@ main.WriteLine("shutting down.");
 
 produces
 
-```text
-
-Sample starting...                                   ┌────────────────────── info ───────────────────────┐
-shutting down.                                       │[DBG] sample is running                            │
-                                                     │make scroll 0                                      │
-                                                     │make scroll 1                                      │
-                                                     │make scroll 2                                      │
-                                                     │make scroll 3                                      │
-                                                     │make scroll 4                                      │
-                                                     │make scroll 5                                      │
-                                                     │make scroll 6                                      │
-                                                     │make scroll 7                                      │
-                                                     │make scroll 8                                      │
-                                                     │make scroll 9                                      │
-                                                     │[INF] Hello null from thread 1                     │
-                                                     │                                                   │
-                                                     │                                                   │
-                                                     │                                                   │
-                                                     ├─────────────── errors and warnings ───────────────┤
-                                                     │[WRN] No coins remain at position { Lat: 25, Long: │
-                                                     │134 }                                              │
-                                                     │[ERR] Something went wrong                         │                                                     │    ---                                            │
-                                                     │    Attempted to divide by zero.                   │                                                     │    ---                                            │
-                                                     │                                                   │                                                     │                                                   │
-                                                     │                                                   │                                                     │                                                   │
-                                                     │                                                   │                                                     │                                                   │
-                                                     │                                                   │                                                     │                                                   │
-                                                     │                                                   │
-                                                     │                                                   │
-                                                     └───────────────────────────────────────────────────┘
-```
+![sample.png](sample.png)
