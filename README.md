@@ -7,7 +7,7 @@
     .WriteTo.KonsoleWindow(logs, errors)
 ```
 
-test creating a simple serilog sink for konsole that uses v7 alpha theming
+Sample serilog sink for konsole windows.
 
 ## There's no solution file, how do I build it?
 
